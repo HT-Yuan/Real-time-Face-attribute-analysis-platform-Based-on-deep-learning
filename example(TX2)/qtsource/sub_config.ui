@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>927</width>
+    <height>509</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTableWidget" name="table_config">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>931</width>
+     <height>511</height>
+    </rect>
+   </property>
+   <property name="showGrid">
+    <bool>true</bool>
+   </property>
+   <row>
+    <property name="text">
+     <string>1</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>2</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>5</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>参数名</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>参数值</string>
+    </property>
+   </column>
+   <item row="0" column="0">
+    <property name="text">
+     <string>web服务地址</string>
+    </property>
+   </item>
+   <item row="0" column="1">
+    <property name="text">
+     <string>192.168.126</string>
+    </property>
+   </item>
+   <item row="1" column="0">
+    <property name="text">
+     <string>web服务端口</string>
+    </property>
+   </item>
+   <item row="1" column="1">
+    <property name="text">
+     <string>80</string>
+    </property>
+   </item>
+   <item row="2" column="0">
+    <property name="text">
+     <string>数据库服务地址</string>
+    </property>
+   </item>
+   <item row="2" column="1">
+    <property name="text">
+     <string>192.168.126</string>
+    </property>
+   </item>
+   <item row="3" column="0">
+    <property name="text">
+     <string>数据库服务端口</string>
+    </property>
+   </item>
+   <item row="3" column="1">
+    <property name="text">
+     <string>23</string>
+    </property>
+   </item>
+   <item row="4" column="0">
+    <property name="text">
+     <string>数据库连接帐号</string>
+    </property>
+   </item>
+   <item row="4" column="1">
+    <property name="text">
+     <string>huatsing</string>
+    </property>
+   </item>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
