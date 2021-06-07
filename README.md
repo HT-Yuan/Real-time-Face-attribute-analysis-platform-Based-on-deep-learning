@@ -12,8 +12,8 @@
 
 #### 致谢：
 ######      1.西南科技大学信息工程学院
-######      3.efficient:    https://github.com/lukemelas/EfficientNet-PyTorch.git
-######      2.ultrafce:     https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB.git
-######      3.face_classification:    https://github.com/oarriaga/face_classification/tree/master
+######      2.efficient:    https://github.com/lukemelas/EfficientNet-PyTorch.git
+######      3.ultrafce:     https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB.git
+######      4.face_classification:    https://github.com/oarriaga/face_classification/tree/master
 
 #### 个人联系方式：H.T.Yuan@Foxmail.com
