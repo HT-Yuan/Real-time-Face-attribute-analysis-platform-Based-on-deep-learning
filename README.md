@@ -11,7 +11,7 @@
 ######         测试数据
 
 #### 致谢：
-######      1.西南科技大学信息工程学院
+######      1.西南科技大学信息工程学院   天津大学自动化学院
 ######      2.efficient:    https://github.com/lukemelas/EfficientNet-PyTorch.git
 ######      3.ultrafce:     https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB.git
 ######      4.face_classification:    https://github.com/oarriaga/face_classification/tree/master
