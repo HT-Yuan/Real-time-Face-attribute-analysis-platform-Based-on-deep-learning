@@ -16,4 +16,4 @@
 ######      3.ultrafce:     https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB.git
 ######      4.face_classification:    https://github.com/oarriaga/face_classification/tree/master
 
-#### 个人联系方式：H.T.Yuan@Foxmail.com
+#### 个人联系方式：huatsing@tju.edu.cn
